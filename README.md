@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://fb.com/prasun boral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasun boral" height="30" width="40" /></a>
 <a href="https://instagram.com/prasun.steve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasun.steve" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prasun-baral-508974326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedln.svg" alt="Prasun Baral" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
